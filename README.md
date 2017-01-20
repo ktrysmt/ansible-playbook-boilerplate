@@ -15,7 +15,17 @@
 │   │   │   └── main.yml
 │   │   └── vars
 │   │       └── main.yml
-│   └── base-ubuntu
+│   ├── base-ubuntu
+│   │   ├── tasks
+│   │   │   └── main.yml
+│   │   └── vars
+│   │       └── main.yml
+│   ├── fluentd
+│   │   ├── tasks
+│   │   │   └── main.yml
+│   │   └── vars
+│   │       └── main.yml
+│   └── mackerel
 │       ├── tasks
 │       │   └── main.yml
 │       └── vars
